@@ -1,0 +1,10 @@
+{
+    "USE_WIFI": false,
+    "SSID": "Wifi SSID",
+    "SSID_PASS": "WiFi pass",
+    "HTTP_URL": "localhost",
+    "HTTP_PASSWORD": "password",
+    "USE_LORA": false,
+    "APP_EUI": "0000000000000000",
+    "APP_KEY": "00000000000000000000000000000000"
+}
